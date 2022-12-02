@@ -3,7 +3,7 @@
 
 * TensorFlow (Keras)
 * Python 3.5 +
-* Numpy (+ mkl for Windows)
+* Numpy
 * PIL ( pillow )
 * Opencv
 * tkinter ( python GUI )
